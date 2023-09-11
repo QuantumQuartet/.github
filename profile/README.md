@@ -1,8 +1,10 @@
+# QUANTUM QUARTET
+
 **Bem-vindo ao Grupo de Desenvolvimento da Positivo - Turma de Análise e Desenvolvimento de Sistemas!**
 
 Somos um grupo de estudantes apaixonados pela tecnologia e pelo desenvolvimento de sistemas, atualmente cursando o segundo semestre do curso na Universidade Positivo. Nossa jornada acadêmica é marcada por uma série de disciplinas empolgantes e desafiadoras, que nos prepararam para o mundo da programação e do desenvolvimento de software.
 
-**Nossas Disciplinas Atuais:**
+## **Nossas Disciplinas Atuais:**
 
     ▪ Algoritmos de Programação: A base sólida da computação começa aqui, explorando algoritmos e lógica de programação.
     
@@ -16,7 +18,7 @@ Somos um grupo de estudantes apaixonados pela tecnologia e pelo desenvolvimento 
     
     ▪ Qualidade de Software: Garantindo que nossos projetos atendam aos mais altos padrões de qualidade.
 
-**Disciplinas do Primeiro Semestre:**
+## **Disciplinas do Primeiro Semestre:**
 
     ▪ Cultura Startup: Imersão no mundo das startups e da inovação.
     
@@ -34,4 +36,4 @@ Aqui, compartilhamos conhecimento, colaboramos em projetos e celebramos nossas c
 
 Junte-se a nós nesta jornada emocionante!
 
-**Vamos codificar o futuro!**
+# **Vamos codificar o futuro!**
